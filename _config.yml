@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jing Li"
   avatar : "/assets/images/20230417profile.jpg"
-  bio    : "Ph.D. in Machine Learning and Computer Vision."
+  bio    : "Ph.D. in Machine Learning."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

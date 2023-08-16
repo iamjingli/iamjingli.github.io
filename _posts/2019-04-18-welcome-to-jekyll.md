@@ -1,6 +1,6 @@
 ---
 title: "WDAN has been accepted by IEEE T-CSVT!"
-date: 2023-02-01T15:34:30-04:00
+date: 2023-02-21T15:34:30-04:00
 categories:
   - papers
 tags:
@@ -13,6 +13,6 @@ Deep neural networks usually depend on substantial labeled data and suffer from 
 
 Check out the [Page][paperPage] for details if you are interested.
 
-[paperPage]: [https://ieeexplore.ieee.org/abstract/document/10054088]
+[paperPage]:   https://ieeexplore.ieee.org/abstract/document/10054088
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

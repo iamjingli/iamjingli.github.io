@@ -13,6 +13,6 @@ Deep neural networks usually depend on substantial labeled data and suffer from 
 
 Check out the [paperPage][paperPage] for details if you are interested.
 
-[paperPage]: [https://jekyllrb.com/docs/home](https://ieeexplore.ieee.org/abstract/document/10054088)
+[paperPage]: [https://ieeexplore.ieee.org/abstract/document/10054088]
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

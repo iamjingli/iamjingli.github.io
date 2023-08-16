@@ -2,7 +2,7 @@
 title: "WDAN has been accepted by IEEE T-CSVT!"
 date: 2023-02-21T15:34:30-04:00
 categories:
-  - papers
+  - Paper
 tags:
   - Journal
   - TCSVT

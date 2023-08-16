@@ -1,29 +1,18 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "WDAN has been accepted by IEEE T-CSVT!"
+date: 2023-02-01T15:34:30-04:00
 categories:
-  - blog
+  - papers
 tags:
-  - Jekyll
-  - update
+  - Journal
+  - TCSVT
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Abstract:
+Deep neural networks usually depend on substantial labeled data and suffer from poor generalization to new domains. Domain adaptation can be used to resolve these issues, using a classifier trained with a label-rich source and transferred to a label-scarce target domain. Traditional domain adaptation adopts the close-set assumption that both domains share the same classes. However, real-world applications operate in an open-set scenario where target domains have private categories. This aspect is considered by open-set domain adaptation (OSDA). Nevertheless, current OSDA benchmarks lack clear definitions of semantic classes that are at the core of the open-set concept. In this study, we propose fine-grained visual categorization (FGVC) datasets containing specific descriptions of semantic classes as a solution, introducing the new setting named fine-grained OSDA. Owing to the entanglement among FGVC, unknown class recognition, and domain adaptation, fine-grained OSDA is a challenging task. For this reason, we designed a weighted discriminative adversarial network with dual classifiers (WDAN). It utilizes a selective transformer encoder with overlapping patches and supervised contrastive learning to extract features suitable for FGVC, adversarial training with domain-specific discriminative information to recognize target-private classes, and a weighted conditional domain discriminator to learn domain-invariant features for domain adaptation. Extensive experiments on five benchmarks, including one newly built, demonstrated that WDAN outperforms state-of-the-art methods. This work fills the existing gap in benchmarks for fine-grained OSDA, promoting future developments of real-world applications.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Check out the [paperPage][paperPage] for details if you are interested.
 
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
+[paperPage]: [https://jekyllrb.com/docs/home](https://ieeexplore.ieee.org/abstract/document/10054088)
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

@@ -1,6 +1,6 @@
 ---
-title: "WDAN has been accepted by IEEE T-CSVT!"
-date: 2023-02-21T15:34:30-04:00
+title: "The extension of NENO has been accepted by IEEE T-CSVT!"
+date: 2023-08-20T15:34:30-04:00
 categories:
   - Paper
 tags:
@@ -14,9 +14,3 @@ Domain adaptation mitigates the decline in performance that occurs when models a
 Furthermore, it is probable that multiple source domains are annotated asynchronously by distinct agencies, each with its own data distributions.
 The practical challenges of multi-source open-set domain adaptation (MSOSDA) have not been thoroughly investigated, despite their relevance in real-world scenarios. The main difficulty in MSOSDA lies in developing a shared discriminative feature space across all domains, while effectively separating source classes from target-specific ones. In this study, we propose a method for MSOSDA using a self-supervised vision Transformer (ViT) combined with nearest neighbor classification. Our key insight is to leverage the powerful nearest neighbor classification property of self-supervised ViT, along with supervised contrastive learning. To explicitly align the domains and accurately identify unknown classes in the target domain, we employ straightforward strategies and an adaptive data-driven threshold.
 Our approach has been extensively evaluated on five multi-source domain adaptation benchmarks, showcasing its effectiveness. Among these benchmarks, two are fine-grained, and it is worth noting that one of them has been introduced for the first time in this paper. Through these experiments, we provide compelling evidence of the performance and efficacy of our proposed approach.
-
-Check out the [Page][paperPage] for details if you are interested.
-
-[paperPage]:   https://ieeexplore.ieee.org/abstract/document/10054088
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/

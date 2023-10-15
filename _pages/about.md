@@ -9,4 +9,4 @@ Before joining TUT in the fall of 2023, he earned the Ph.D. degree in Computer S
 
 His research interests lie in the realm of machine learning and computer vision, with a distinct emphasis on developing models and algorithms tailored for real-world scenarios where the abilities to generalize and remain robust are of paramount importance. These scenarios include domain adaptation, open-set recognition, and more.
 
-Email: lj#email.tju.edu.cn (please replace # with @).
+Email: lj#email.tjut.edu.cn (please replace # with @).

@@ -1,11 +1,9 @@
 ---
-title: "With Prof. Qinghua Hu and Mrs. Dongyue Chen!"
-date: 2023-03-21T15:34:30-04:00
+title: "With a little Koala in Brisbane, Australia!"
+date: 2023-07-10T15:34:30-04:00
 categories:
   - Photo
 tags:
-  - group photo
+  - Me
 ---
-These photos With Prof. [Qinghua Hu](http://cic.tju.edu.cn/faculty/huqinghua/project.html) (middle) and Mrs. Dongyue Chen (right) were taken on 21st, March, 2023 for memo in Peiyang Campus, Tianjin University. 
 <br/><img src='/assets/images/20230321withHu2-tinypng.png'>
-<br/><img src='/assets/images/20230321withHu-tinypng.png'>

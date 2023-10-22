@@ -6,4 +6,4 @@ categories:
 tags:
   - Me
 ---
-<br/><img src='/assets/images/20230321withHu2-tinypng.png'>
+<br/><img src='/assets/images/微信图片_20231022134050.jpg'>

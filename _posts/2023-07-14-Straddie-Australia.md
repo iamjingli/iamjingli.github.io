@@ -1,7 +1,7 @@
 ---
 title: "Rainbow, Sea, Beach, and Me!"
 categories:
-  - Travel
+  - Photo
 tags:
   - Australia
 ---

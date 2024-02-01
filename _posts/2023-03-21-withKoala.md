@@ -5,5 +5,6 @@ categories:
   - Photo
 tags:
   - Me
+  - Australia
 ---
 <br/><img src='/assets/images/微信图片_20231022134050.jpg'>

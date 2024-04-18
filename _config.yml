@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/20230417profile.jpg"
   bio    : "Ph.D. in Machine Learning."
   links:
-    - label: "Website"
+    - label: "Official Page"
       icon: "fas fa-fw fa-link"
       url: "https://cs.tjut.edu.cn/info/1217/2231.htm"
     - label: "Twitter"

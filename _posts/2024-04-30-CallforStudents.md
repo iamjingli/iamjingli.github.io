@@ -1,5 +1,5 @@
 ---
-title: "Positions for Master and Undergraduate Students in AI."
+title: "Positions for Master Students in AI!"
 date: 2024-04-30T21:10:30-04:00
 categories:
   - Notice

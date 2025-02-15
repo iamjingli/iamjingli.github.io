@@ -9,7 +9,7 @@ Before joining TUT in the fall of 2023, he earned the Ph.D. degree in Computer S
 
 His research interests lie in the realm of machine learning and computer vision, with a distinct emphasis on developing models and algorithms tailored for real-world scenarios where the abilities to generalize and remain robust are of paramount importance. These scenarios include domain adaptation, open-set recognition, and more.
 
-Currently，He co-supervises one or two master students with other professors. Undergraduate students are also welcomed to join his research group.
+Currently，he recruits and co-supervises one or two master students with other professors every year. Undergraduate students are also welcomed to join his research group.
 Please drop him an email if you're interested in choosing him as your supervisor or working with him.
 
 Email: lj#email.tjut.edu.cn (please replace # with @).

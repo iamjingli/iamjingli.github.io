@@ -1,6 +1,6 @@
 ---
-title: "招生公告！Master Student Positions are Available!"
-date: 2024-05-01T01:10:30-04:00
+title: "招生公告，长期有效！Master Student Positions are Available, valid indefinitely!"
+date: 2025-02-20T01:10:30-04:00
 categories:
   - Notice
 tags:

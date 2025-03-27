@@ -1,5 +1,5 @@
 ---
-title: "NENO has been accepted by IEEE T-CSVT!"
+title: "NENO has been accepted by IEEE TCSVT!"
 date: 2023-08-20T15:34:30-04:00
 categories:
   - Paper

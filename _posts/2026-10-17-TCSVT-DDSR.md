@@ -1,6 +1,6 @@
 ---
 title: "DDSR has been accepted by IEEE TCSVT!"
-date: 2026-10-19T11:33:33-03:00
+date: 2026-10-17T11:33:33-03:00
 categories:
   - Paper
 tags:

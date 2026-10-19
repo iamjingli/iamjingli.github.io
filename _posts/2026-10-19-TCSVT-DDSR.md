@@ -12,10 +12,7 @@ tags:
 
 论文题目：Adaptive Dual-Teacher Distillation with Subnetwork Rectification for Bridging Semantic Gaps in Black-Box Domain Adaptation.
 
-论文摘要如下：
-黑盒域自适应（BBDA）设定下，源域数据与源模型参数均不可获取，是一类具备极高实用价值、同时极具挑战性的任务。在该场景中，可迁移知识仅能从黑盒源模型的预测输出中获取。现有方法一般通过伪标签优化或利用视觉语言模型（ViL）挖掘这类知识，但往往难以调和黑盒模型输出的任务专属知识与视觉语言模型具备的对齐语言语义先验之间固有的差异，造成两类知识融合效果不佳，域自适应性能下降。针对该难题，本文提出**带子网校正的自适应双教师蒸馏框架（DDSR）**，该框架能够显式地协调这两组互补但存在冲突的知识源。
-DDSR 采用自适应预测融合策略，融合黑盒源模型与视觉语言模型的预测结果，为目标域生成可靠伪标签；基于子网的正则化机制通过约束输出一致性与梯度差异性，缓解模型对噪声监督信号的过拟合问题。此外，持续迭代优化得到的目标域预测结果会不断优化伪标签与视觉语言模型提示词，进一步强化语义对齐。最后，借助类别原型，通过自训练进一步优化目标域预测结果。
-在多组基准数据集上开展大量实验，结果表明：DDSR 在现有的黑盒域自适应方法中取得了当前最优性能，同时相比许多能够访问源域数据或源模型参数的方法，本方法依然具备不俗竞争力。代码开源地址：[https://github.com/iamjingli/DDSR.](https://github.com/iamjingli/DDSR)
+论文摘要如下：黑盒域自适应（BBDA）设定下，源域数据与源模型参数均不可获取，是一类具备极高实用价值、同时极具挑战性的任务。在该场景中，可迁移知识仅能从黑盒源模型的预测输出中获取。现有方法一般通过伪标签优化或利用视觉语言模型（ViL）挖掘这类知识，但往往难以调和黑盒模型输出的任务专属知识与视觉语言模型具备的对齐语言语义先验之间固有的差异，造成两类知识融合效果不佳，域自适应性能下降。针对该难题，本文提出**带子网校正的自适应双教师蒸馏框架（DDSR）**，该框架能够显式地协调这两组互补但存在冲突的知识源。DDSR 采用自适应预测融合策略，融合黑盒源模型与视觉语言模型的预测结果，为目标域生成可靠伪标签；基于子网的正则化机制通过约束输出一致性与梯度差异性，缓解模型对噪声监督信号的过拟合问题。此外，持续迭代优化得到的目标域预测结果会不断优化伪标签与视觉语言模型提示词，进一步强化语义对齐。最后，借助类别原型，通过自训练进一步优化目标域预测结果。在多组基准数据集上开展大量实验，结果表明：DDSR 在现有的黑盒域自适应方法中取得了当前最优性能，同时相比许多能够访问源域数据或源模型参数的方法，本方法依然具备不俗竞争力。代码开源地址：[https://github.com/iamjingli/DDSR.](https://github.com/iamjingli/DDSR)
 
 Congratulations to Zhe Zhang for having his research accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). Zhe Zhang is a master student enrolled in 2024, co-supervised by Professor Shengyong Chen and me. This accepted paper marks his 1st research achievement during his master studies, focusing on black-box domain adaptation. IEEE TCSVT is a flagship journal of the IEEE covering image/video representation, processing, analysis and synthesis, learning and understanding. It is ranked Q1 in the Journal Partition Table of Chinese Academy of Sciences. 
 
